@@ -183,7 +183,7 @@
 		CA6632AE9A5EEF9402D203B687714E59 /* Nogizaka */ = {
 			isa = PBXGroup;
 			children = (
-				FF135A5D1FE6B795000BBFE4 /* Nogizaka.swift */,
+				FF135A5F1FE6C87C000BBFE4 /* Classes */,
 				8F48B01A6C10ADB42454BF778DCECEC5 /* Support Files */,
 			);
 			name = Nogizaka;
@@ -204,6 +204,22 @@
 				CA6632AE9A5EEF9402D203B687714E59 /* Nogizaka */,
 			);
 			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		FF135A5F1FE6C87C000BBFE4 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				FF135A601FE6C895000BBFE4 /* Main */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		FF135A601FE6C895000BBFE4 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				FF135A5D1FE6B795000BBFE4 /* Nogizaka.swift */,
+			);
+			path = Main;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
