@@ -1,0 +1,16 @@
+PODS:
+  - Nogizaka (0.1.0)
+
+DEPENDENCIES:
+  - Nogizaka (from `../`)
+
+EXTERNAL SOURCES:
+  Nogizaka:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Nogizaka: b4fe3cc87317833274c36030053d5e249e86feba
+
+PODFILE CHECKSUM: 41772c47eb107e721b915c2c1f06be99c1ec8827
+
+COCOAPODS: 1.3.1

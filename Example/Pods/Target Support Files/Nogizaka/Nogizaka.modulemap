@@ -1,0 +1,6 @@
+framework module Nogizaka {
+  umbrella header "Nogizaka-umbrella.h"
+
+  export *
+  module * { export * }
+}

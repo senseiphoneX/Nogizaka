@@ -1,0 +1,22 @@
+{
+  "name": "Nogizaka",
+  "version": "0.1.0",
+  "summary": "A short description of Nogizaka.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/senseiphoneX/Nogizaka",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "senseiphoneX": "senseiphonex@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/senseiphoneX/Nogizaka.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Nogizaka/Classes/**/*"
+}
