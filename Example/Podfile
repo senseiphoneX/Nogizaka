@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Nogizaka_Example' do
+  pod 'Nogizaka', :path => '../'
+
+  target 'Nogizaka_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
