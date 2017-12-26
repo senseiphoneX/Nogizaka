@@ -26,6 +26,7 @@ public struct Member {
 public class Nogizaka {
 
     public static var Members = [Member(LastName: "秋元", FirstName: "真夏", LastRuby: "あきもと", FirstRuby: "まなつ"),
+                                 Member(LastName: "生田", FirstName: "絵梨花", LastRuby: "いくた", FirstRuby: "えりか"),
                                  Member(LastName: "生駒", FirstName: "里奈", LastRuby: "いこま", FirstRuby: "りな"),
                                  Member(LastName: "齋藤", FirstName: "飛鳥", LastRuby: "さいとう", FirstRuby: "あすか"),
                                  Member(LastName: "西野", FirstName: "七瀬", LastRuby: "にしの", FirstRuby: "ななせ"),
