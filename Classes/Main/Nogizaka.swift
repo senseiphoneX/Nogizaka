@@ -37,6 +37,7 @@ public class Nogizaka {
                                  Member(LastName: "川村", FirstName: "真洋", LastRuby: "かわむら", FirstRuby: "まひろ"),
                                  Member(LastName: "北野", FirstName: "日奈子", LastRuby: "きたの", FirstRuby: "ひなこ"),
                                  Member(LastName: "齋藤", FirstName: "飛鳥", LastRuby: "さいとう", FirstRuby: "あすか"),
+                                 Member(LastName: "斎藤", FirstName: "ちはる", LastRuby: "さいとう", FirstRuby: "ちはる"),
                                  Member(LastName: "西野", FirstName: "七瀬", LastRuby: "にしの", FirstRuby: "ななせ"),
                                  Member(LastName: "白石", FirstName: "麻衣", LastRuby: "しらいし", FirstRuby: "まい")]
     
