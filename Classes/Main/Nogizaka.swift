@@ -46,6 +46,7 @@ public class Nogizaka {
                                  Member(LastName: "新内", FirstName: "眞衣", LastRuby: "しんうち", FirstRuby: "まい"),
                                  Member(LastName: "鈴木", FirstName: "絢音", LastRuby: "すずき", FirstRuby: "あやね"),
                                  Member(LastName: "高山", FirstName: "一実", LastRuby: "たかやま", FirstRuby: "かずみ"),
+                                 Member(LastName: "寺田", FirstName: "蘭世", LastRuby: "てらだ", FirstRuby: "らんぜ"),
                                  Member(LastName: "西野", FirstName: "七瀬", LastRuby: "にしの", FirstRuby: "ななせ")]
     
     public class func memberName() {
