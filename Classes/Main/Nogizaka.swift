@@ -54,7 +54,8 @@ public class Nogizaka {
                                  Member(LastName: "星野", FirstName: "みなみ", LastRuby: "ほしの", FirstRuby: "みなみ"),
                                  Member(LastName: "樋口", FirstName: "日奈", LastRuby: "ひぐち", FirstRuby: "ひな"),
                                  Member(LastName: "堀", FirstName: "未央奈", LastRuby: "ほり", FirstRuby: "みおな"),
-                                 Member(LastName: "松村", FirstName: "沙友理", LastRuby: "まつむら", FirstRuby: "さゆり")]]
+                                 Member(LastName: "松村", FirstName: "沙友理", LastRuby: "まつむら", FirstRuby: "さゆり"),
+                                 Member(LastName: "山崎", FirstName: "玲奈", LastRuby: "やまざき", FirstRuby: "れな")]
     
     
     
